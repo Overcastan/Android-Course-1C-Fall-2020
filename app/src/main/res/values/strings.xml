@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrainingProject2</string>
+    <string name="date">2020.10.27</string>
+    <string name="content">The PL-15 is a 9mm short recoil-operated, locked-breech handgun that uses
+        a modified Browning cam-lock system adapted from the Hi-Power pistol. The firearm"'"s locking
+        mechanism uses a linkless, vertically tilting barrel with a rectangular breech that locks
+        into the ejection port cut-out in the slide. It features a double-action only (DAO) trigger,
+        requiring a long and heavy trigger pull that puts the hammer into a cocked state and then
+        releases it with every shot. The trigger pull weight is 4 kg, and the full length of the
+        trigger pull is 7 mm. It has a manual safety that, when engaged, disconnects the trigger
+        from the hammer. All controls (manual safeties, slide release levers and magazine release
+        buttons) are fully ambidextrous. A loaded chamber indicator is provided in the form of a pin
+        that protrudes from the back of the slide when a round is present in the chamber.
+        The PL-15-01 and PL-15K-01 variants of the pistol are striker-fired and have a single-action
+        trigger with a significantly reduced trigger pull weight and length. Cartridges are fed from
+        proprietary detachable double-stack single-feed magazines. It features removable front and
+        rear dovetail sight posts, completely interchangeable with sights designed for Glock
+        pistols. The frame features a picatinny rail underneath the barrel for the attachment of
+        accessories. The PL-15 pistol can be equipped with an extended, threaded barrel for
+        installing a silencer. </string>
+</resources>
